@@ -1,6 +1,5 @@
-# born2beroot
+# born2beroot-42network-cursus
 Born2beroot project from 42 network with bonus
-# 42cursus - Born2beroot
 
 ## Table of Contents
 1. [Installation](#installation)
