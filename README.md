@@ -333,7 +333,7 @@ $ sudo crontab -u root -l
 ## Bonus
 
 ### #1: Installation
-Watch *bonus* installation walkthrough *(no audio)* [here](https://youtu.be/2w-2MX5QrQw).
+Watch *bonus* installation walkthrough *(no audio)* [here](https://www.youtube.com/watch?v=OQEdjt38ZJA).
 
 ### #2: Linux Lighttpd MariaDB PHP *(LLMP)* Stack
 
